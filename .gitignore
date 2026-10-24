@@ -5,3 +5,5 @@ frontend/dist/
 frontend/*.tsbuildinfo
 backend/playverse.db
 backend/.env
+dev-output.log
+dev-error.log
